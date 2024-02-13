@@ -9,9 +9,9 @@
 - Intallez [Flex-horseshoe-card](https://github.com/AmoebeLabs/flex-horseshoe-card) [HACS]
 - Intallez [Apexcharts-card](https://github.com/RomRider/apexcharts-card) [HACS]
 - Intallez [Card_mod](https://github.com/thomasloven/lovelace-card-mod) [HACS]
-- Copier Sous-Vue-Hydro-Quebec.yaml
-- Copier le répertoire Cates.
-- Copier le répetoire Capteurs.
+- Copiez Sous-Vue-Hydro-Quebec.yaml
+- Copiez le répertoire Cates.
+- Copiez le répetoire Package.
 
 ### Thème
 

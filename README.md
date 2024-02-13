@@ -23,9 +23,17 @@ Si vous n'utilisez pas le thème, vous pouvez retiré tout les markdown du code.
 Vous pouvez aussi retiré les card_mod qui ne contiennent que du code nécessaire pour le thème.
 
 EX:
+```
+            - type: markdown
+              content: "# Hydro-Québec Maison"
+              card_mod:
+                class: header-contained
 
+            - type: custom:apexcharts-card
+              card_mod:          ------> À retirer
+                class: middle-contained      ------> À retirer
 
-
+```  
 
 - Restart Home Assistant
 

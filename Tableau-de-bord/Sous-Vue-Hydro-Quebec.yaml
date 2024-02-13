@@ -1,6 +1,6 @@
 # Sous-Vue Hydro-Québec
 
-theme: !include ../Cartes/Carte-Theme.yaml
+theme: LCARS Picard I
 title: Hydro-Québec
 path: sous-vue-hydro-quebec
 icon: ios:hydro-quebec#fullcolor
